@@ -1,0 +1,6 @@
+{
+  "name": "DecodeLabs Stateful AI Chatbot - Project 1",
+  "description": "Industrial Training Kit: Custom AI Chatbot with Stateful In-Memory Loops, Caliper Validation Gate, Sliding Window Pruning, and Memory Exam.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
